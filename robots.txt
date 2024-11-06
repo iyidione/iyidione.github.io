@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyidione.github.io/Agp/sitemap_index.txt
+Sitemap: https://iyidione.github.io/ICx/sitemap_index.txt
+Sitemap: https://iyidione.github.io/WfM/sitemap_index.txt
+Sitemap: https://iyidione.github.io/est/sitemap_index.txt
